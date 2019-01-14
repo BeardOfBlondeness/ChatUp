@@ -1,1 +1,1 @@
-"#ChatUp ChatterUpper" 
+#ChatUp ChatterUpper
